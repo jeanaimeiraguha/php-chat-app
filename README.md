@@ -14,5 +14,5 @@ version: 1.0.0
 
 ## Authors
 
-[Jean Aime IRAGUHA](https://github.com/codingWithElias)
+[Jean Aime IRAGUHA](https://github.com/jeanaimeiraguha)
 "# php-chat-app" 
