@@ -11,8 +11,16 @@ version: 1.0.0
 1. HTML
 1. CSS
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 54a5bd412be12cb43e5ef21ce93d7d903c3d9fa4
 
 ## Authors
 
 [Jean Aime IRAGUHA](https://github.com/jeanaimeiraguha)
+<<<<<<< HEAD
 "# php-chat-app" 
+=======
+## php-chat-app
+>>>>>>> 54a5bd412be12cb43e5ef21ce93d7d903c3d9fa4
