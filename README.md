@@ -11,11 +11,9 @@ version: 1.0.0
 1. HTML
 1. CSS
 
-## Full Tutorial
 
-[On Youtube](https://youtu.be/JLnsWkQ-iB8)
 
 ## Authors
 
-[Elias Abdurrahman](https://github.com/codingWithElias)
-"# php-chat-app" 
+[Jean Aime IRAGUHA](https://github.com/jeanaimeiraguha)
+## php-chat-app
